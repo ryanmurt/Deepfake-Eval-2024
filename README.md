@@ -1,7 +1,7 @@
 # Deepfake-Eval-2024
 A Multi-Modal In-the-Wild Benchmark of Deepfakes Circulated in 2024
 
-As the Lead Data Analyst at Truemedia.org, I created the labeling protocol, supervised and conducted the labeling, and created visualizations and authored the labeling methodology section for this paper. 
+As the Lead Data Analyst at [Truemedia.org](www.truemedia.org), I created the labeling protocol, supervised and conducted the labeling, and created visualizations and authored the labeling methodology section for this paper. 
 - [Full paper](https://arxiv.org/abs/2503.02857)
 - [Dashboard]()
 
